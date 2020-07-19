@@ -1,1 +1,2 @@
 # jman
+readme  edits
